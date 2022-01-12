@@ -1,0 +1,44 @@
+body {
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    background-color: #c9ae18ee;
+    color: black;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 2rem;
+    color: #2545ba;
+    align-items: flex-start;
+}
+
+li {
+    display: block;
+    color: rgb(35, 35, 241);
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+a:hover {
+    color: #000;
+}
+
+img {
+    opacity: 0.7;
+    width: 600px;
+}
+
+img:hover {
+    opacity: 1;
+}
